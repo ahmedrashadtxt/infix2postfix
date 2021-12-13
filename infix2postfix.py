@@ -1,6 +1,3 @@
-from os import stat
-
-
 class Stack:
 
     def __init__(self):
